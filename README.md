@@ -17,7 +17,10 @@ SCL                  	GPIO 22
                                       External 5–6V → PCA9685 V+
                                       External GND → PCA9685 GND
 
-
+Most Important : 
+- Connect the servo 1 in channel 1 and servo 2 into the channel 2  
+- in channel 1 servo is used to rotate head left-center-right
+- in channel 2 servo is used to rotate head up-center-down
             
 <img width="1231" height="662" alt="image" src="https://github.com/user-attachments/assets/0f237ee8-2207-4fa9-828b-3cf6989b46e4" />
 
