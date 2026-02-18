@@ -1,4 +1,4 @@
-# By_SciCraft - Modified for ESP32
+
 
 import cv2
 from cvzone.FaceDetectionModule import FaceDetector
@@ -76,3 +76,4 @@ while True:
 
     cv2.imshow("Image", img)
     cv2.waitKey(1)
+
